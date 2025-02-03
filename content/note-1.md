@@ -2,7 +2,7 @@
 title: Zusammenfassung von Skript von SWE
 draft: false
 tags:
-	- zusammenfassungen
+  - zusammenfassungen
 date: 2025-02-03
 ---
 %% Copyright (c) Philipp Wagner 2025 %%
